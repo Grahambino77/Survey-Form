@@ -1,0 +1,35 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap'); 
+
+body{ 
+    font-family: 'lobster';
+    line-height: 1.4; 
+    background-color: rgb(12, 5, 6);
+    width: 500px;
+    margin: auto;
+
+}
+
+form {
+    background: rgb (147, 5, 5, 0.2);
+    padding: 2.5rem 2.5 rem;
+    border-radius: 2rem;
+    width: 500px;
+    margin: auto;
+
+}
+
+.submit-button {
+    
+}
+
+
+
+
+
+
+
+
+
